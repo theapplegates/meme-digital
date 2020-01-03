@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://thirsty-yalow-535ecd.netlify.com/"
 title = "Hugo Theme MemE"
 languageCode = "en-US"
 hasCJKLanguage = false
